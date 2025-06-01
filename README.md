@@ -1,1 +1,3 @@
 # CO2-Emission-Prediction-for-Vehicles
+Our project aims to provide insight into the CO2 emissions caused by various vehicles. This project utilizes a comprehensive dataset containing vehicle specifications and fuel consumption metrics to develop predictive models. We implemented and compared four different regression models: linear regression, Random Forest, K-nearest neighbors, and Decision Tree. 
+We took inspiration from the recent events happening in Dhaka regarding pollution and poor air quality. Dhaka is one of the most populated countries with a huge amount of traffic. So we wanted to explore how vehicles can negatively impact the environment by increasing CO2 emissions. 
